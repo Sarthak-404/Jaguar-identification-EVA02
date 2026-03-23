@@ -105,18 +105,6 @@ Camera-Trap Images
   Query → Cosine Similarity → Top-K Match
 ```
 
----
-
-## 📊 Results
-
-| Metric | Score |
-|---|---|
-| mAP | *0.948* |
-| Rank-1 Accuracy | *0.976* |
-| Backbone | EVA-02 ViT |
-
----
-
 ## 🌿 Conservation Impact
 
 Jaguar populations have declined significantly due to habitat loss and poaching. Automated individual identification from camera traps allows researchers to:
