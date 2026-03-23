@@ -111,8 +111,8 @@ Camera-Trap Images
 
 | Metric | Score |
 |---|---|
-| mAP | *(reported in notebook)* |
-| Rank-1 Accuracy | *(reported in notebook)* |
+| mAP | *0.948* |
+| Rank-1 Accuracy | *0.976* |
 | Backbone | EVA-02 ViT |
 
 ---
